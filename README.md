@@ -1,2 +1,1 @@
-# README.md
-Personal Repository
+# About me
